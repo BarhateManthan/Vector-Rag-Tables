@@ -1,0 +1,9 @@
+pandas==2.3.1
+tabula-py==2.10.0
+PyMuPDF==1.26.3
+openai==1.97.1
+langchain==0.3.26
+chromadb==1.0.15
+gradio==5.38.1
+pyyaml==6.0.2
+pdfplumber==0.11.7

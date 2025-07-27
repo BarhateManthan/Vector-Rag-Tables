@@ -1,0 +1,17 @@
+chunking:
+  chunk_size: 800
+  chunk_overlap: 100
+  separators:
+    - "\n## "
+    - "\n### "
+    - "\n- "
+    - "\n\n"
+    - " "
+
+tables:
+  clean_empty_rows: true
+  convert_to_markdown: true
+
+openai:
+  model: gpt-4o
+  temperature: 0.3
